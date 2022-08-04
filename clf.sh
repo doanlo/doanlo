@@ -1,6 +1,6 @@
 #!/bin/bash
-read -p "  Tài Khoản : " user
-read -p "  API KEY : " api
+read -p "  Tài Khoản: " user
+read -p "  API KEY: " api
 echo "1. Check ID ACC"
 echo "2. Check Zone ID && WEB"
 echo "3. DELETE WEB"
